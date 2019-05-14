@@ -1,2 +1,2 @@
-# literate-adventure
+# hello-world
 Understanding GitHub repository
